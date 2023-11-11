@@ -1,5 +1,5 @@
-# Responsive Landing Page Headphones 🎧
-## Responsive Landing Page Headphones 🎧
+# OCTANET Internship
+## (Week-1)Responsive Landing Page Headphones 🎧
 
 - Beautiful headphone landing page using HTML, CSS and JAVASCRIPT.
 - Dark interface.
