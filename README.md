@@ -7,7 +7,7 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-##(Week-2)A Simple TODO List
+## (Week-2)A Simple TODO List
 
 - Created Catagories to customize your tasks
 - Simple and User fiendly
